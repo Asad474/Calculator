@@ -47,11 +47,10 @@ input[type = 'button']{
     width: 195px;
 }
 
-/* @media(max-width : 600px){
+@media(max-width : 600px){
     .calc{
-        width: 55%;
-        height: 340px;
-        padding: 20px;
+        width: 300px;
+        height: 400px;
     }   
 
     .calc-display{
@@ -59,7 +58,7 @@ input[type = 'button']{
     }
 
     input[type = 'button']{
-        width: 52px;
+        width: 65px;
         height: 40px;
         font-size: 20px;
         margin: 1px 0;
@@ -69,4 +68,4 @@ input[type = 'button']{
     #eval{
         width: 106px;
     }
-} */
+}
