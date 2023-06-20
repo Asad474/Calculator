@@ -34,6 +34,7 @@ table{
 }
 
 input[type = 'button']{
+    cursor: pointer;
     width: 95px;
     height: 70px;
     border: none;
