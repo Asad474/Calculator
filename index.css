@@ -50,7 +50,9 @@ input[type = 'button']{
 @media(max-width : 600px){
     .calc{
         width: 300px;
-        height: 400px;
+        height: 430px;
+        margin-top: 120px;
+        margin-left: 14px;
     }   
 
     .calc-display{
@@ -58,14 +60,14 @@ input[type = 'button']{
     }
 
     input[type = 'button']{
-        width: 65px;
-        height: 40px;
+        width: 72px;
+        height: 60px;
         font-size: 20px;
-        margin: 1px 0;
+        margin: 2px 0;
         margin-right: 1px;
     }
 
     #eval{
-        width: 106px;
+        width: 146px;
     }
 }
