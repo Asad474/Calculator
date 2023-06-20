@@ -47,7 +47,7 @@ input[type = 'button']{
     width: 195px;
 }
 
-@media(max-width : 600px){
+/* @media(max-width : 600px){
     .calc{
         width: 55%;
         height: 340px;
@@ -69,4 +69,4 @@ input[type = 'button']{
     #eval{
         width: 106px;
     }
-}
+} */
